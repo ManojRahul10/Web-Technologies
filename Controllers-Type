@@ -1,0 +1,8 @@
+Controllers Type
+In web frameworks (like MVC - Model View Controller), controllers manage the data flow between the model and the view.
+Controller types may refer to:
+
+Front-end Controllers: Handle UI logic (e.g., React components).
+
+Back-end Controllers: Handle requests and return responses (e.g., in Node.js, Laravel, Django).
+
