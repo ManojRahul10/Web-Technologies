@@ -1,0 +1,10 @@
+Web elements are the parts or components of a web page, such as:
+
+-Text boxes
+-Buttons
+-Images
+-Checkboxes
+-Forms
+
+Links They are defined in HTML and styled with CSS, and often manipulated using JavaScript.
+
