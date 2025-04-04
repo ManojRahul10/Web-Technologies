@@ -1,0 +1,6 @@
+Controllers:
+
+-Receive user input (e.g., form submission)
+-Process data (via models/services)
+-Return a response (e.g., render HTML, send JSON)
+
