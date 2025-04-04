@@ -1,0 +1,3 @@
+DOM (Document Object Model)
+The DOM is a tree structure representation of an HTML document. JavaScript can manipulate the DOM to change elements, styles, or content dynamically.
+
